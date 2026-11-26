@@ -20,6 +20,24 @@ The objective is to estimate future annual insurance losses and evaluate financi
 
 ---
 
+## 📷 Project Visualizations
+
+### Distribution of Insurance Charges
+
+![Distribution](images/charges_distribution.png)
+
+### Monte Carlo Simulation
+
+![Monte Carlo](images/monte_carlo_simulation.png)
+
+### Correlation Heatmap
+
+![Heatmap](images/correlation_heatmap.png)
+
+### Smoking Status vs Insurance Charges
+
+![Boxplot](images/smoker_boxplot.png)
+
 ## 📂 Dataset
 
 - Source: Kaggle Medical Cost Personal Dataset
