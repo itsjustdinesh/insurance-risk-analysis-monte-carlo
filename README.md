@@ -1,4 +1,6 @@
-# 📊 Estimating Insurance Losses Using Monte Carlo Simulation
+# 📊 Insurance Risk Analysis using Monte Carlo Simulation
+
+> Statistical Analysis • Monte Carlo Simulation • Multiple Linear Regression • Risk Analytics
 
 ![Python](https://img.shields.io/badge/Python-3.13-blue)
 ![NumPy](https://img.shields.io/badge/NumPy-Latest-orange)
@@ -9,6 +11,8 @@
 ---
 
 ## 📖 Project Overview
+
+![Monte Carlo Simulation](images/monte_carlo_simulation.png)
 
 This project analyzes a real-world medical insurance dataset using statistical analysis, multiple linear regression, and Monte Carlo simulation.
 
